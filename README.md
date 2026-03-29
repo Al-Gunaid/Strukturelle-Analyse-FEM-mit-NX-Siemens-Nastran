@@ -1,0 +1,1 @@
+# Strukturelle-Analyse-FEM-mit-NX-Siemens-Nastran
